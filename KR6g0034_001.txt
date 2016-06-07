@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:56.474131
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:10
 #+TITLE: 大雲無想經卷第九
 #+PROPERTY: CBETA_ID T12n0388
 #+PROPERTY: ID KR6g0034
